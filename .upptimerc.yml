@@ -5,9 +5,9 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Wicked CPU (Homepage)
-    url: https://www.wickedcpu.com
+    url: wickedcpu.com
   - name: Wicked CPU (Play Dashboard)
-    url: https://play.wickedcpu.com
+    url: play.wickedcpu.com
   - name: Secret Site
     url: $SECRET_SITE
 
