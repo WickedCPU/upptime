@@ -1,19 +1,19 @@
 [
   {
     "name": "Wicked CPU (Homepage)",
-    "url": "https://www.wickedcpu.com",
+    "url": "wickedcpu.com",
     "slug": "wicked-cpu-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 134
   },
   {
     "name": "Wicked CPU (Play Dashboard)",
-    "url": "https://play.wickedcpu.com",
+    "url": "play.wickedcpu.com",
     "slug": "wicked-cpu-play-dashboard",
     "status": "up",
     "uptime": "100.00",
-    "time": 351
+    "time": 388
   },
   {
     "name": "Secret Site",
