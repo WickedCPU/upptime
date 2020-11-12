@@ -5,7 +5,7 @@
     "slug": "wicked-cpu-homepage",
     "status": "up",
     "uptime": "100.00",
-    "time": 398
+    "time": 400
   },
   {
     "name": "Wicked CPU (Play Dashboard)",
@@ -13,7 +13,7 @@
     "slug": "wicked-cpu-play-dashboard",
     "status": "up",
     "uptime": "100.00",
-    "time": 426
+    "time": 422
   },
   {
     "name": "Playground01 (Game Server)",
