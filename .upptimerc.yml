@@ -28,9 +28,8 @@ status-website:
       href: https://wickedcpu.com
     - title: Play
       href: https://play.wickedcpu.com
+  # Custom Footer
+  footer: This page is
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
-i18n:
-  footer: This page is
