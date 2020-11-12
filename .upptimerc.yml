@@ -34,4 +34,4 @@ status-website:
 
 # Custom Footer
 i18n:
-  footer: WickedCPU
+  footer: WickedCPU [I'm an inline-style link](https://www.google.com)
