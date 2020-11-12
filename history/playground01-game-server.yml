@@ -1,7 +1,7 @@
-- url: 172.107.199.10
+- url: $PLAYGROUND01
 - status: down
 - code: 0
 - responseTime: 0
-- lastUpdated: 2020-11-12T02:35:23.952Z
+- lastUpdated: 2020-11-12T03:34:26.729Z
 - startTime: 2020-11-12T00:59:45.645Z
 - generator: Upptime <https://github.com/upptime/upptime>
