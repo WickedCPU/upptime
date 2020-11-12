@@ -1,50 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 86
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 151
-  },
-  {
-    "name": "Internet Archive",
-    "url": "https://archive.org",
-    "slug": "internet-archive",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 541
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 328
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "Wicked CPU (Homepage)",
+    "url": "https://www.wickedcpu.com",
+    "slug": "wicked-cpu-homepage",
     "status": "down",
-    "uptime": "0.00",
+    "uptime": "24.56",
     "time": 0
+  },
+  {
+    "name": "Wicked CPU (Play Dashboard)",
+    "url": "https://play.wickedcpu.com",
+    "slug": "wicked-cpu-play-dashboard",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 331
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 50
+    "time": 0
   }
 ]
