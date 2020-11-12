@@ -5,7 +5,7 @@
     "slug": "wicked-cpu-homepage",
     "status": "up",
     "uptime": "100.00",
-    "time": 240
+    "time": 277
   },
   {
     "name": "Wicked CPU (Play Dashboard)",
@@ -13,6 +13,6 @@
     "slug": "wicked-cpu-play-dashboard",
     "status": "up",
     "uptime": "100.00",
-    "time": 398
+    "time": 409
   }
 ]
