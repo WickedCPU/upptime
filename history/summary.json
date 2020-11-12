@@ -4,7 +4,7 @@
     "url": "https://www.wickedcpu.com",
     "slug": "wicked-cpu-homepage",
     "status": "down",
-    "uptime": "13.40",
+    "uptime": "100.00",
     "time": 0
   },
   {
@@ -13,7 +13,7 @@
     "slug": "wicked-cpu-play-dashboard",
     "status": "up",
     "uptime": "100.00",
-    "time": 331
+    "time": 351
   },
   {
     "name": "Secret Site",
