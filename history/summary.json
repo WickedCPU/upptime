@@ -17,9 +17,9 @@
   },
   {
     "name": "Playground01 (Game Server)",
-    "url": "http://172.107.199.10",
+    "url": "$PLAYGROUND01",
     "slug": "playground01-game-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
     "time": 2
   }
