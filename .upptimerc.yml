@@ -32,9 +32,6 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-notifications:
-  - type: discord
-
 # Custom Footer
 i18n:
   footer: Status ⚡ by [Upptime](https://upptime.js.org/)
