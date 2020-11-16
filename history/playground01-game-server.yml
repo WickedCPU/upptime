@@ -1,7 +1,7 @@
-- url: http://172.107.199.10
-- status: up
-- code: 200
-- responseTime: 49
-- lastUpdated: 2020-11-16T16:13:16.426Z
+- url: http://172.107.199.10-testdown
+- status: down
+- code: 0
+- responseTime: 0
+- lastUpdated: 2020-11-16T16:16:33.361Z
 - startTime: 2020-11-12T00:59:45.645Z
 - generator: Upptime <https://github.com/upptime/upptime>
