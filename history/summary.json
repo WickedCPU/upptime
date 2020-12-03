@@ -5,7 +5,15 @@
     "slug": "wicked-cpu-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 362
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 373,
+    "timeDay": 237,
+    "timeWeek": 393,
+    "timeMonth": 373,
+    "timeYear": 373
   },
   {
     "name": "Wicked CPU (Play Dashboard)",
@@ -13,7 +21,15 @@
     "slug": "wicked-cpu-play-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "time": 379
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 378,
+    "timeDay": 246,
+    "timeWeek": 406,
+    "timeMonth": 378,
+    "timeYear": 378
   },
   {
     "name": "Playground01 (Game Server)",
@@ -21,6 +37,14 @@
     "slug": "playground01-game-server",
     "status": "up",
     "uptime": "100.00%",
-    "time": 23
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 48,
+    "timeDay": 48,
+    "timeWeek": 50,
+    "timeMonth": 48,
+    "timeYear": 48
   }
 ]
