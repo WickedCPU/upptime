@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 237,
-    "timeWeek": 393,
-    "timeMonth": 373,
-    "timeYear": 373
+    "time": 371,
+    "timeDay": 255,
+    "timeWeek": 287,
+    "timeMonth": 371,
+    "timeYear": 371
   },
   {
     "name": "Wicked CPU (Play Dashboard)",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 378,
-    "timeDay": 246,
-    "timeWeek": 406,
-    "timeMonth": 378,
-    "timeYear": 378
+    "time": 375,
+    "timeDay": 195,
+    "timeWeek": 365,
+    "timeMonth": 375,
+    "timeYear": 375
   },
   {
     "name": "Playground01 (Game Server)",
@@ -42,8 +42,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 48,
-    "timeWeek": 50,
+    "timeDay": 54,
+    "timeWeek": 51,
     "timeMonth": 48,
     "timeYear": 48
   }
