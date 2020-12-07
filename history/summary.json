@@ -2,22 +2,27 @@
   {
     "name": "Wicked CPU (Homepage)",
     "url": "wickedcpu.com",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wicked-cpu-homepage",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "84.05%",
+    "uptime": "99.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.72%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
-    "time": 361,
-    "timeDay": 256,
-    "timeWeek": 260,
-    "timeMonth": 361,
-    "timeYear": 361
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
+    "time": 360,
+    "timeDay": 297,
+    "timeWeek": 263,
+    "timeMonth": 360,
+    "timeYear": 360,
+    "dailyMinutesDown": {
+      "2020-12-05": 229
+    }
   },
   {
     "name": "Wicked CPU (Play Dashboard)",
     "url": "play.wickedcpu.com",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wicked-cpu-play-dashboard",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +30,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 253,
-    "timeWeek": 284,
-    "timeMonth": 370,
-    "timeYear": 370
+    "time": 371,
+    "timeDay": 437,
+    "timeWeek": 312,
+    "timeMonth": 371,
+    "timeYear": 371,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Playground01 (Game Server)",
     "url": "http://172.107.199.10",
+    "icon": "https://favicons.githubusercontent.com/172.107.199.10",
     "slug": "playground01-game-server",
     "status": "up",
     "uptime": "100.00%",
@@ -42,9 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 49,
-    "timeWeek": 50,
+    "timeDay": 54,
+    "timeWeek": 51,
     "timeMonth": 48,
-    "timeYear": 48
+    "timeYear": 48,
+    "dailyMinutesDown": {}
   }
 ]
