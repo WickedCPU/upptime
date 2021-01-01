@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wicked-cpu-homepage",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "99.67%",
-    "time": 345,
-    "timeDay": 253,
-    "timeWeek": 371,
-    "timeMonth": 294,
-    "timeYear": 345,
+    "uptimeYear": "99.68%",
+    "time": 344,
+    "timeDay": 258,
+    "timeWeek": 367,
+    "timeMonth": 291,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2020-12-05": 229
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 265,
-    "timeWeek": 265,
-    "timeMonth": 304,
-    "timeYear": 353,
+    "time": 352,
+    "timeDay": 326,
+    "timeWeek": 276,
+    "timeMonth": 298,
+    "timeYear": 352,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 62,
+    "timeDay": 56,
     "timeWeek": 51,
-    "timeMonth": 48,
+    "timeMonth": 49,
     "timeYear": 48,
     "dailyMinutesDown": {}
   }
