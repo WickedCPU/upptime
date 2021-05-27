@@ -26,19 +26,19 @@
     "url": "play.wickedcpu.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wicked-cpu-play-dashboard",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.96%",
     "time": 344,
-    "timeDay": 423,
-    "timeWeek": 282,
-    "timeMonth": 307,
+    "timeDay": 346,
+    "timeWeek": 280,
+    "timeMonth": 305,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2021-05-27": 0
+      "2021-05-27": 103
     }
   },
   {
