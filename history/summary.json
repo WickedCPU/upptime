@@ -12,7 +12,7 @@
     "uptimeYear": "99.90%",
     "time": 426,
     "timeDay": 393,
-    "timeWeek": 292,
+    "timeWeek": 312,
     "timeMonth": 384,
     "timeYear": 426,
     "dailyMinutesDown": {
@@ -26,9 +26,9 @@
     "url": "play.wickedcpu.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wicked-cpu-play-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 282,
     "timeMonth": 307,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-27": 0
+    }
   },
   {
     "name": "Playground01 (Game Server)",
