@@ -9,7 +9,7 @@ sites:
   - name: Wicked CPU (Play Dashboard)
     url: play.wickedcpu.com
   - name: Playground01 (Game Server)
-    url: http://172.107.199.10
+    url: pg01.wickedcpu.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
