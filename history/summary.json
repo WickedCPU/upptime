@@ -4,7 +4,7 @@
     "url": "wickedcpu.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wicked-cpu-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 288,
     "timeYear": 388,
     "dailyMinutesDown": {
+      "2021-10-06": 0,
       "2021-09-28": 61,
       "2021-09-27": 72,
       "2021-08-14": 70,
