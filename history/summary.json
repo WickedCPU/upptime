@@ -56,9 +56,9 @@
     "url": "pg01.wickedcpu.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "playground01-game-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -67,6 +67,8 @@
     "timeWeek": 85,
     "timeMonth": 104,
     "timeYear": 64,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   }
 ]
