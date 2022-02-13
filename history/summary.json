@@ -11,9 +11,9 @@
     "uptimeMonth": "96.43%",
     "uptimeYear": "99.64%",
     "time": 364,
-    "timeDay": 304,
-    "timeWeek": 265,
-    "timeMonth": 282,
+    "timeDay": 615,
+    "timeWeek": 272,
+    "timeMonth": 288,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2022-02-10": 1290,
@@ -40,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 323,
-    "timeDay": 256,
-    "timeWeek": 313,
-    "timeMonth": 343,
+    "timeDay": 388,
+    "timeWeek": 304,
+    "timeMonth": 348,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2021-10-25": 46,
@@ -59,17 +59,16 @@
     "slug": "playground01-game-server",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
-    "timeDay": 80,
-    "timeWeek": 95,
+    "timeDay": 97,
+    "timeWeek": 96,
     "timeMonth": 81,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2022-02-12": 14,
       "2021-11-25": 10
     }
   }
