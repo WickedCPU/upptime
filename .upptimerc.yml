@@ -4,11 +4,11 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Wicked CPU (Homepage)
+  #- name: Wicked CPU (Homepage)
     #url: wickedcpu.com
-  - name: Wicked CPU (Play Dashboard)
+  #- name: Wicked CPU (Play Dashboard)
     #url: play.wickedcpu.com
-  - name: Playground01 (Game Server)
+  #- name: Playground01 (Game Server)
     #url: pg01.wickedcpu.com
 
 status-website:
