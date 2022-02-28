@@ -5,11 +5,11 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Wicked CPU (Homepage)
-    url: wickedcpu.com
+    #url: wickedcpu.com
   - name: Wicked CPU (Play Dashboard)
-    url: play.wickedcpu.com
+    #url: play.wickedcpu.com
   - name: Playground01 (Game Server)
-    url: pg01.wickedcpu.com
+    #url: pg01.wickedcpu.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -33,7 +33,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 notifications:
-#  - type: discord
+  - type: discord
 
 # Custom Footer
 i18n:
