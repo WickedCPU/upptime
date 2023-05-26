@@ -27,9 +27,9 @@
     "url": "play.wickedcpu.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wicked-cpu-play-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -39,6 +39,7 @@
     "timeMonth": 281,
     "timeYear": 298,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2023-04-17": 42,
       "2023-02-03": 68,
       "2022-08-09": 287
