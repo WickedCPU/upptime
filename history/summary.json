@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 439,
-    "timeDay": 158,
-    "timeWeek": 213,
-    "timeMonth": 216,
-    "timeYear": 426,
+    "timeDay": 195,
+    "timeWeek": 215,
+    "timeMonth": 217,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2024-02-19": 93,
       "2024-02-17": 18,
@@ -29,18 +29,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wicked-cpu-play-dashboard",
     "status": "down",
-    "uptime": "69.97%",
+    "uptime": "69.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 271,
-    "timeDay": 439,
-    "timeWeek": 278,
+    "timeDay": 283,
+    "timeWeek": 284,
     "timeMonth": 274,
-    "timeYear": 260,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-01-23": 23,
+      "2025-01-24": 23,
+      "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -403,8 +404,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   },
   {
@@ -413,18 +413,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "playground01-game-server",
     "status": "down",
-    "uptime": "70.41%",
+    "uptime": "70.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 104,
-    "timeDay": 64,
-    "timeWeek": 130,
-    "timeMonth": 100,
+    "timeDay": 148,
+    "timeWeek": 134,
+    "timeMonth": 101,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-01-23": 23,
+      "2025-01-24": 23,
+      "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -787,8 +788,7 @@
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440
+      "2024-01-26": 1440
     }
   }
 ]
