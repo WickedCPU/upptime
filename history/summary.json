@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 434,
-    "timeDay": 258,
-    "timeWeek": 244,
-    "timeMonth": 277,
-    "timeYear": 317,
+    "timeDay": 205,
+    "timeWeek": 235,
+    "timeMonth": 274,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2024-02-19": 93,
-      "2024-02-17": 18
+      "2024-02-19": 93
     }
   },
   {
@@ -26,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wicked-cpu-play-dashboard",
     "status": "down",
-    "uptime": "68.93%",
+    "uptime": "68.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 259,
-    "timeDay": 332,
-    "timeWeek": 296,
-    "timeMonth": 300,
+    "time": 258,
+    "timeDay": 186,
+    "timeWeek": 276,
+    "timeMonth": 297,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-02-15": 24,
+      "2025-02-16": 27,
+      "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -400,8 +400,7 @@
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
-      "2024-02-18": 1440,
-      "2024-02-17": 1440
+      "2024-02-18": 1440
     }
   },
   {
@@ -410,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "playground01-game-server",
     "status": "down",
-    "uptime": "69.37%",
+    "uptime": "69.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 104,
-    "timeDay": 80,
-    "timeWeek": 89,
-    "timeMonth": 113,
+    "timeDay": 161,
+    "timeWeek": 99,
+    "timeMonth": 116,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-02-15": 24,
+      "2025-02-16": 27,
+      "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -784,8 +784,7 @@
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
-      "2024-02-18": 1440,
-      "2024-02-17": 1440
+      "2024-02-18": 1440
     }
   }
 ]
