@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 434,
-    "timeDay": 227,
-    "timeWeek": 240,
-    "timeMonth": 275,
-    "timeYear": 310,
-    "dailyMinutesDown": {
-      "2024-02-19": 93
-    }
+    "timeDay": 189,
+    "timeWeek": 249,
+    "timeMonth": 273,
+    "timeYear": 301,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wicked CPU (Play Dashboard)",
@@ -25,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wicked-cpu-play-dashboard",
     "status": "down",
-    "uptime": "68.85%",
+    "uptime": "68.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 259,
-    "timeDay": 336,
-    "timeWeek": 264,
-    "timeMonth": 301,
+    "time": 258,
+    "timeDay": 239,
+    "timeWeek": 280,
+    "timeMonth": 300,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-02-17": 26,
+      "2025-02-18": 24,
+      "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -399,8 +398,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   },
   {
@@ -409,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "playground01-game-server",
     "status": "down",
-    "uptime": "69.28%",
+    "uptime": "69.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 104,
-    "timeDay": 140,
-    "timeWeek": 107,
-    "timeMonth": 116,
+    "timeDay": 36,
+    "timeWeek": 105,
+    "timeMonth": 113,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2025-02-17": 26,
+      "2025-02-18": 24,
+      "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -783,8 +782,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   }
 ]
