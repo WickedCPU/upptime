@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 438,
-    "timeDay": 245,
-    "timeWeek": 308,
-    "timeMonth": 320,
+    "timeDay": 257,
+    "timeWeek": 314,
+    "timeMonth": 318,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wicked-cpu-play-dashboard",
     "status": "down",
-    "uptime": "67.33%",
+    "uptime": "67.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 258,
-    "timeDay": 313,
-    "timeWeek": 270,
-    "timeMonth": 281,
+    "timeDay": 297,
+    "timeWeek": 289,
+    "timeMonth": 285,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-03-24": 27,
+      "2025-03-25": 26,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -397,8 +398,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "playground01-game-server",
     "status": "down",
-    "uptime": "67.76%",
+    "uptime": "67.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 105,
-    "timeDay": 140,
-    "timeWeek": 98,
-    "timeMonth": 114,
+    "timeDay": 107,
+    "timeWeek": 112,
+    "timeMonth": 115,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-03-24": 27,
+      "2025-03-25": 26,
+      "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
@@ -781,8 +782,7 @@
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
-      "2024-03-26": 1440,
-      "2024-03-25": 1440
+      "2024-03-26": 1440
     }
   }
 ]
