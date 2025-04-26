@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 436,
-    "timeDay": 271,
-    "timeWeek": 357,
-    "timeMonth": 301,
-    "timeYear": 239,
+    "timeDay": 280,
+    "timeWeek": 362,
+    "timeMonth": 302,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wicked-cpu-play-dashboard",
     "status": "down",
-    "uptime": "66.01%",
+    "uptime": "65.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 264,
-    "timeDay": 359,
-    "timeWeek": 263,
-    "timeMonth": 296,
-    "timeYear": 259,
+    "timeDay": 379,
+    "timeWeek": 277,
+    "timeMonth": 303,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2025-04-25": 27,
+      "2025-04-26": 26,
+      "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -397,8 +398,7 @@
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
-      "2024-04-27": 1440,
-      "2024-04-26": 1440
+      "2024-04-27": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "playground01-game-server",
     "status": "down",
-    "uptime": "66.42%",
+    "uptime": "66.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 105,
-    "timeDay": 12,
-    "timeWeek": 83,
-    "timeMonth": 101,
+    "timeDay": 140,
+    "timeWeek": 81,
+    "timeMonth": 105,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-04-25": 27,
+      "2025-04-26": 26,
+      "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -781,8 +782,7 @@
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
-      "2024-04-27": 1440,
-      "2024-04-26": 1440
+      "2024-04-27": 1440
     }
   }
 ]
