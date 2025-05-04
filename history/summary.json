@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 334,
-    "timeWeek": 270,
-    "timeMonth": 287,
-    "timeYear": 241,
+    "time": 430,
+    "timeDay": 388,
+    "timeWeek": 284,
+    "timeMonth": 292,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wicked-cpu-play-dashboard",
     "status": "down",
-    "uptime": "65.68%",
+    "uptime": "65.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 266,
-    "timeDay": 335,
-    "timeWeek": 312,
-    "timeMonth": 287,
+    "timeDay": 218,
+    "timeWeek": 283,
+    "timeMonth": 282,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2025-05-03": 26,
+      "2025-05-04": 31,
+      "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
@@ -397,8 +398,7 @@
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
-      "2024-05-05": 1440,
-      "2024-05-04": 1440
+      "2024-05-05": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "playground01-game-server",
     "status": "down",
-    "uptime": "66.10%",
+    "uptime": "66.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 106,
-    "timeDay": 71,
-    "timeWeek": 124,
-    "timeMonth": 111,
+    "time": 105,
+    "timeDay": 126,
+    "timeWeek": 127,
+    "timeMonth": 113,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-05-03": 26,
+      "2025-05-04": 31,
+      "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
       "2025-04-30": 1440,
@@ -781,8 +782,7 @@
       "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
-      "2024-05-05": 1440,
-      "2024-05-04": 1440
+      "2024-05-05": 1440
     }
   }
 ]
