@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 210,
-    "timeWeek": 235,
-    "timeMonth": 248,
+    "time": 280,
+    "timeDay": 246,
+    "timeWeek": 237,
+    "timeMonth": 249,
     "timeYear": 252,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wicked-cpu-play-dashboard",
     "status": "down",
-    "uptime": "63.39%",
+    "uptime": "63.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 271,
-    "timeDay": 263,
-    "timeWeek": 316,
-    "timeMonth": 290,
+    "timeDay": 326,
+    "timeWeek": 318,
+    "timeMonth": 288,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-07-01": 33,
+      "2025-07-02": 29,
+      "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -397,8 +398,7 @@
       "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 1440
+      "2024-07-03": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "playground01-game-server",
     "status": "down",
-    "uptime": "63.79%",
+    "uptime": "63.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 105,
-    "timeDay": 15,
-    "timeWeek": 94,
-    "timeMonth": 108,
+    "time": 106,
+    "timeDay": 139,
+    "timeWeek": 100,
+    "timeMonth": 110,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2025-07-01": 33,
+      "2025-07-02": 29,
+      "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -781,8 +782,7 @@
       "2024-07-06": 1440,
       "2024-07-05": 1440,
       "2024-07-04": 1440,
-      "2024-07-03": 1440,
-      "2024-07-02": 1440
+      "2024-07-03": 1440
     }
   }
 ]
