@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 215,
-    "timeWeek": 240,
-    "timeMonth": 274,
+    "time": 244,
+    "timeDay": 199,
+    "timeWeek": 228,
+    "timeMonth": 273,
     "timeYear": 256,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wicked-cpu-play-dashboard",
     "status": "down",
-    "uptime": "62.54%",
+    "uptime": "62.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 276,
-    "timeDay": 261,
-    "timeWeek": 290,
-    "timeMonth": 324,
+    "timeDay": 184,
+    "timeWeek": 279,
+    "timeMonth": 320,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2025-07-24": 31,
+      "2025-07-25": 30,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -397,8 +398,7 @@
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "playground01-game-server",
     "status": "down",
-    "uptime": "62.94%",
+    "uptime": "62.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 107,
-    "timeDay": 70,
-    "timeWeek": 96,
-    "timeMonth": 102,
-    "timeYear": 107,
+    "time": 106,
+    "timeDay": 63,
+    "timeWeek": 95,
+    "timeMonth": 101,
+    "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-07-24": 31,
+      "2025-07-25": 30,
+      "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
@@ -781,8 +782,7 @@
       "2024-07-29": 1440,
       "2024-07-28": 1440,
       "2024-07-27": 1440,
-      "2024-07-26": 1440,
-      "2024-07-25": 1440
+      "2024-07-26": 1440
     }
   }
 ]
